@@ -1,0 +1,3 @@
+﻿  rng igra.cpp
+C:\Users\mario\Desktop\Codes\rng igra\rng igra\rng igra.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rng igra.vcxproj -> C:\Users\mario\Desktop\Codes\rng igra\x64\Debug\rng igra.exe
